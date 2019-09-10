@@ -46,8 +46,10 @@ void main()
 	int b = 3;
 	int c = add(a, b);
 	cout << a << "+" << b << "=" << c << endl;
-	cout << sub(8, 3) << endl;
+	cout << sub(8, 3) << endl;		//Вызов функции - Function call
 	cout << mul(5, 3) << endl;
 	cout << div_(10, 4) << endl;
 	cout << factorial(5) << endl;
+	cout << power(3, 6) << endl;
 }
+

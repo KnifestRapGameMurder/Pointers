@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Parameters", "Parameters\Parameters.vcxproj", "{75056D09-65B5-4EA5-9CB4-D1E2226436CF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arays", "Arays\Arays.vcxproj", "{6BC52C58-B6CD-44E3-980F-402AF478372C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{75056D09-65B5-4EA5-9CB4-D1E2226436CF}.Release|x64.Build.0 = Release|x64
 		{75056D09-65B5-4EA5-9CB4-D1E2226436CF}.Release|x86.ActiveCfg = Release|Win32
 		{75056D09-65B5-4EA5-9CB4-D1E2226436CF}.Release|x86.Build.0 = Release|Win32
+		{6BC52C58-B6CD-44E3-980F-402AF478372C}.Debug|x64.ActiveCfg = Debug|x64
+		{6BC52C58-B6CD-44E3-980F-402AF478372C}.Debug|x64.Build.0 = Debug|x64
+		{6BC52C58-B6CD-44E3-980F-402AF478372C}.Debug|x86.ActiveCfg = Debug|Win32
+		{6BC52C58-B6CD-44E3-980F-402AF478372C}.Debug|x86.Build.0 = Debug|Win32
+		{6BC52C58-B6CD-44E3-980F-402AF478372C}.Release|x64.ActiveCfg = Release|x64
+		{6BC52C58-B6CD-44E3-980F-402AF478372C}.Release|x64.Build.0 = Release|x64
+		{6BC52C58-B6CD-44E3-980F-402AF478372C}.Release|x86.ActiveCfg = Release|Win32
+		{6BC52C58-B6CD-44E3-980F-402AF478372C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
