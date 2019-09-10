@@ -1,6 +1,13 @@
 #include<iostream>
 using namespace std;
 
+int add(int a, int b);		//Прототип (обьявление) функции - Function declaration
+int sub(int a, int b);
+int mul(int a, int b);
+double div_(int a, int b);
+int factorial(int a);
+int power(int a, int b);
+
 void main()
 {
 	setlocale(LC_ALL, "");
