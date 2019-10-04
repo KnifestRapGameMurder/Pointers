@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Anka2", "Anka2\Anka2.pyproj", "{76D570DC-D5AA-48D0-9E3C-CF5FE28DA68D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76D570DC-D5AA-48D0-9E3C-CF5FE28DA68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D570DC-D5AA-48D0-9E3C-CF5FE28DA68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {980547AE-FD89-4B2B-BEDD-BDC5459E56FC}
+	EndGlobalSection
+EndGlobal
